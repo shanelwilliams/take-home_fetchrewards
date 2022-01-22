@@ -1,0 +1,15 @@
+# GET https://frontend-take-home.fetchrewards.com/form
+
+###
+
+POST https://frontend-take-home.fetchrewards.com/form
+content-type: application/json
+
+{
+    "name": "Shanel E Williams",
+    "email": "shanelwilliams2018@gmail.com",
+    "password": "adf",
+    "occupation": "Really Good Dancer",
+    "state": "Colorado"
+}
+###
